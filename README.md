@@ -67,20 +67,16 @@
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white">
 </a>
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<h2> Github Stats<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+ 
+  <b>💻 GitHub Profile Stats</b>
   <div align="center">
-<h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=ManuelGalvis04&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ManuelGalvis04)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ManuelGalvis04&theme=material-palenight)](https://github.com/ManuelGalvis04)
 </div>
-
-</details>
 <br/>
-
 <h3>Statistical Data</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelGalvis04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
