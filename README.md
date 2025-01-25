@@ -72,7 +72,7 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=ManuelGalvis04&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ManuelGalvis04)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ManuelGalvis04&theme=material-palenight)](https://github.com/ManuelGalvis04)
